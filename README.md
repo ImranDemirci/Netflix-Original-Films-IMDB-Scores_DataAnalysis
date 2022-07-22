@@ -1,32 +1,34 @@
-# Netflix_DataAnalysis
-Netflix-Original-Films-IMDB-Scores (Dataset Linki: https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores )
+# Netflix-Original-Films-IMDB-Scores_DataAnalysis
 
-Veri setine göre uzun soluklu filmler hangi dilde oluşturulmuştur? Görselleştirme yapınız.
+* **(Dataset Linki: https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores )**
 
-2019 Ocak ile 2020 Haziran tarihleri arasında 'Documentary' türünde çekilmiş filmlerin IMDB değerlerini bulup görselleştiriniz.
+* **Veri setine göre uzun soluklu filmler hangi dilde oluşturulmuştur? Görselleştirme yapınız.**
 
-İngilizce çekilen filmler içerisinde hangi tür en yüksek IMDB puanına sahiptir?
+* **2019 Ocak ile 2020 Haziran tarihleri arasında 'Documentary' türünde çekilmiş filmlerin IMDB değerlerini bulup görselleştiriniz.**
 
-'Hindi' Dilinde çekilmiş olan filmlerin ortalama 'runtime' suresi nedir?
+* **İngilizce çekilen filmler içerisinde hangi tür en yüksek IMDB puanına sahiptir?**
 
-'Genre' Sütunu kaç kategoriye sahiptir ve bu kategoriler nelerdir? Görselleştirerek ifade ediniz.
+* **'Hindi' Dilinde çekilmiş olan filmlerin ortalama 'runtime' suresi nedir?**
 
-Veri setinde bulunan filmlerde en çok kullanılan 3 dili bulunuz.
+* **'Genre' Sütunu kaç kategoriye sahiptir ve bu kategoriler nelerdir? Görselleştirerek ifade ediniz.**
 
-IMDB puanı en yüksek olan ilk 10 film hangileridir?
+* **Veri setinde bulunan filmlerde en çok kullanılan 3 dili bulunuz.**
 
-IMDB puanı ile 'Runtime' arasında nasıl bir korelasyon vardır? İnceleyip görselleştiriniz.
+* **IMDB puanı en yüksek olan ilk 10 film hangileridir?**
 
-IMDB Puanı en yüksek olan ilk 10 'Genre' hangileridir? Görselleştiriniz.
+* **IMDB puanı ile 'Runtime' arasında nasıl bir korelasyon vardır? İnceleyip görselleştiriniz.**
 
-'Runtime' değeri en yüksek olan ilk 10 film hangileridir? Görselleştiriniz.
+* **IMDB Puanı en yüksek olan ilk 10 'Genre' hangileridir? Görselleştiriniz.**
 
-Hangi yılda en fazla film yayımlanmıştır? Görselleştiriniz.
+* **'Runtime' değeri en yüksek olan ilk 10 film hangileridir? Görselleştiriniz.**
 
-Hangi dilde yayımlanan filmler en düşük ortalama IMBD puanına sahiptir? Görselleştiriniz.
+* **Hangi yılda en fazla film yayımlanmıştır? Görselleştiriniz.**
 
-Hangi yılın toplam "runtime" süresi en fazladır?
+* **Hangi dilde yayımlanan filmler en düşük ortalama IMBD puanına sahiptir? Görselleştiriniz.**
 
-Her bir dilin en fazla kullanıldığı "Genre" nedir?
+* **Hangi yılın toplam "runtime" süresi en fazladır?**
 
-Veri setinde outlier veri var mıdır? Açıklayınız.
+* **Her bir dilin en fazla kullanıldığı "Genre" nedir?**
+
+* **Veri setinde outlier veri var mıdır? Açıklayınız.**
+
